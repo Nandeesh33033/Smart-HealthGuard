@@ -1,0 +1,5 @@
+{
+  "name": "Smart HealthGuard",
+  "description": "AI-powered wellness assistant analyzing mock IoT sensor data and symptoms to provide personalized health insights.",
+  "requestFramePermissions": []
+}
